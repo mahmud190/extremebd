@@ -1,0 +1,58 @@
+.row {
+    margin-top: 15px;
+}
+
+.menu{
+    font-size: medium;
+}
+.header {
+    color: #f60;
+ }
+ .row {
+     margin-bottom: 10px;
+ }
+.mainmenu{
+    background-color: rgb(31, 30, 30); 
+     
+    
+}
+
+.right-content {
+    right: 0;
+}
+
+.list {
+    background-color: #ccc;
+}
+
+.latest {
+    background-color: #ccc;
+}
+
+.footer1{
+    background-color: rgb(253, 231, 231);
+}
+
+.footer-image-card{
+    width: 100;
+    display: inline;
+}
+
+
+.cardtext1 {
+        float: left;
+        width: 50%;
+        
+    }   
+    .card1 img {
+        width: 80px;
+    }
+    .box1{
+        background-color: rgb(210, 227, 238); 
+    }
+
+    .menu {
+        font-size: 35px;
+    }
+
+   
